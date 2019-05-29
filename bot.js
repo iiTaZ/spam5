@@ -1,6 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const client2 = new Discord.Client();
+const client3 = new Discord.Client();
 var prefix = "s";
 
 client.on('ready', () => {
@@ -111,3 +112,4 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
 
 client.login(process.env.TOKEN);// لا تغير فيها شيء
 client2.login(process.env.TOKEN2);// لا تغير فيها شيء
+client3.login(process.env.TOKEN3);// لا تغير فيها شيء
