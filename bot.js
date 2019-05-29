@@ -1,11 +1,11 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const client2 = new Discord.Client();
-var prefix = "s";
+var prefix = "1";
 
 client.on('ready', () => {
    console.log(`----------------`);
-   console.log(` By : iiTaZ `);
+   console.log(`Credit Farmm - Script By : Kahrbaa `);
    console.log(`----------------`);
    console.log(`Loadinng`);
    console.log(`Loadinng.`);
@@ -30,7 +30,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#rep')
+        message.channel.send('#credits')
     }
 });
 
@@ -48,7 +48,7 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#rep')
+        message.channel.send('#credits')
     }
 });
 
@@ -59,7 +59,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**HAHAHAH**[ " ${x} " ]`)
+        message.channel.send(`**Credit Spam , Frame , Credit By Kahrba , Farm Credit By Kahrba, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -73,7 +73,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**HAHAHAH**[ " ${x} " ]`)
+        message.channel.send(`**Credit Spam , Frame , Credit By Kahrba , Farm Credit By Kahrba, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -91,7 +91,7 @@ client.on('message', message => {
 
   let args = message.content.split(" ").slice(1);
   
-if (command == "s") {
+if (command == "say") {
 if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('?|**\`ADMINISTRATOR\`ليس لديك صلاحيات`**');
    message.channel.sendMessage(args.join("  "))
    message.delete()
@@ -107,12 +107,14 @@ client2.on('message', message => {
 
   let args = message.content.split(" ").slice(1);
   
-if (command == "s") {
+if (command == "say") {
 if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('?|**\`ADMINISTRATOR\`ليس لديك صلاحيات`**');
    message.channel.sendMessage(args.join("  "))
    message.delete()
   }
  });
+
+
 
 client.login(process.env.TOKEN);// لا تغير فيها شيء
 client2.login(process.env.TOKEN2);// لا تغير فيها شيء
