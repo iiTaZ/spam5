@@ -39,10 +39,10 @@ if (message.content === '!spam') {
 });
 
 client2.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
+if (message.content === '!s') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000000; x++) {
+      for(let x = 0; x < 90000; x++) {
         message.channel.send(`**HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA**[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -53,10 +53,10 @@ if (message.content === '!spam') {
 });
 
 client3.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
+if (message.content === '!s') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000000; x++) {
+      for(let x = 0; x < 90000; x++) {
         message.channel.send(`**HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA**[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -67,10 +67,10 @@ if (message.content === '!spam') {
 });
 
 client4.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
+if (message.content === '!s') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000000; x++) {
+      for(let x = 0; x < 90000; x++) {
         message.channel.send(`**HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA**[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -81,10 +81,10 @@ if (message.content === '!spam') {
 });
 
 client5.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
+if (message.content === '!s') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000000; x++) {
+      for(let x = 0; x < 90000; x++) {
         message.channel.send(`**HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA**[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -95,10 +95,10 @@ if (message.content === '!spam') {
 });
 
 client6.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
+if (message.content === '!s') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000000; x++) {
+      for(let x = 0; x < 90000; x++) {
         message.channel.send(`**HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA**[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -109,10 +109,10 @@ if (message.content === '!spam') {
 });
 
 client7.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
+if (message.content === '!s') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000000; x++) {
+      for(let x = 0; x < 90000; x++) {
         message.channel.send(`**HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA**[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -123,10 +123,10 @@ if (message.content === '!spam') {
 });
 
 client8.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
+if (message.content === '!s') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000000; x++) {
+      for(let x = 0; x < 90000; x++) {
         message.channel.send(`**HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA**[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -137,10 +137,10 @@ if (message.content === '!spam') {
 });
 
 client9.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
+if (message.content === '!s') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000000; x++) {
+      for(let x = 0; x < 90000; x++) {
         message.channel.send(`**HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA**[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -151,10 +151,10 @@ if (message.content === '!spam') {
 });
 
 client10.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
+if (message.content === '!s') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000000; x++) {
+      for(let x = 0; x < 90000; x++) {
         message.channel.send(`**HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA**[ " ${x} " ]`)
           .then(m => {
             count++;
