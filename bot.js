@@ -29,7 +29,7 @@ if (message.content === '!ha') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000000; x++) {
-        message.channel.send(`-math`)
+        message.channel.send(`-math[ " ${x} " ]`)
           .then(m => {
             count++;
           })
