@@ -29,7 +29,21 @@ if (message.content === '=haha') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000000; x++) {
-        message.channel.send(`**HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA**[ " ${x} " ]`)
+        message.channel.send(`-math`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
+if (message.content === '=haha') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 9000000; x++) {
+        message.channel.send(`0`)
           .then(m => {
             count++;
           })
