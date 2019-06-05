@@ -25,7 +25,7 @@ client.on('ready', () => {
 
 
 client.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '=haha') {
+if (message.content === '!ha') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000000; x++) {
@@ -38,22 +38,8 @@ if (message.content === '=haha') {
       }
 });
 
-client.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '=haha') {
-      let count = 0;
-      let ecount = 0;
-      for(let x = 0; x < 9000000; x++) {
-        message.channel.send(`0`)
-          .then(m => {
-            count++;
-          })
-          
-        }
-      }
-});
-
 client2.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '=haha') {
+if (message.content === '!ha') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
