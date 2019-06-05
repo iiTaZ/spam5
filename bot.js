@@ -25,7 +25,7 @@ client.on('ready', () => {
 
 
 client.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!ha') {
+if (message.content === '!s') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000000; x++) {
