@@ -25,7 +25,7 @@ client.on('ready', () => {
 
 
 client.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!s') {
+if (message.content === '!shh') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000000; x++) {
@@ -39,7 +39,7 @@ if (message.content === '!s') {
 });
 
 client2.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!ha') {
+if (message.content === '!shh') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -53,7 +53,7 @@ if (message.content === '!ha') {
 });
 
 client3.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '=haha') {
+if (message.content === '!shh') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -67,7 +67,7 @@ if (message.content === '=haha') {
 });
 
 client4.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '=haha') {
+if (message.content === '!shh') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -81,7 +81,7 @@ if (message.content === '=haha') {
 });
 
 client5.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '=haha') {
+if (message.content === '!shh') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -95,7 +95,7 @@ if (message.content === '=haha') {
 });
 
 client6.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '=haha') {
+if (message.content === '!shh') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -109,7 +109,7 @@ if (message.content === '=haha') {
 });
 
 client7.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!s') {
+if (message.content === '!shh') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -123,7 +123,7 @@ if (message.content === '!s') {
 });
 
 client8.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '=haha') {
+if (message.content === '!shh') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -137,7 +137,7 @@ if (message.content === '=haha') {
 });
 
 client9.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '=haha') {
+if (message.content === '!shh') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -151,7 +151,7 @@ if (message.content === '=haha') {
 });
 
 client10.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '=haha') {
+if (message.content === '!shh') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
