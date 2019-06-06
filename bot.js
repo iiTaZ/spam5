@@ -25,7 +25,7 @@ client.on('ready', () => {
 
 
 client.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!sp') {
+if (message.content === '!sp1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -39,7 +39,7 @@ if (message.content === '!sp') {
 });
 
 client2.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!sp') {
+if (message.content === '!sp1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -53,7 +53,7 @@ if (message.content === '!sp') {
 });
 
 client3.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!sp') {
+if (message.content === '!sp1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -67,7 +67,7 @@ if (message.content === '!sp') {
 });
 
 client4.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!sp') {
+if (message.content === '!sp1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -81,7 +81,7 @@ if (message.content === '!sp') {
 });
 
 client5.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!sp') {
+if (message.content === '!sp1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -95,7 +95,7 @@ if (message.content === '!sp') {
 });
 
 client6.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!sp') {
+if (message.content === '!sp1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -109,7 +109,7 @@ if (message.content === '!sp') {
 });
 
 client7.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!sp') {
+if (message.content === '!sp1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -123,7 +123,7 @@ if (message.content === '!sp') {
 });
 
 client8.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!sp') {
+if (message.content === '!sp1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -137,7 +137,7 @@ if (message.content === '!sp') {
 });
 
 client9.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!sp') {
+if (message.content === '!sp1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -151,7 +151,7 @@ if (message.content === '!sp') {
 });
 
 client10.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!sp') {
+if (message.content === '!sp1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -173,7 +173,7 @@ client.on('message', message => {
 
   let args = message.content.split(" ").slice(1);
   
-if (command == "s") {
+if (command == "sd") {
 if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('?|**\`ADMINISTRATOR\`ليس لديك صلاحيات`**');
    message.channel.sendMessage(args.join("  "))
    message.delete()
@@ -189,7 +189,7 @@ client2.on('message', message => {
 
   let args = message.content.split(" ").slice(1);
   
-if (command == "s") {
+if (command == "sd") {
 if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('?|**\`ADMINISTRATOR\`ليس لديك صلاحيات`**');
    message.channel.sendMessage(args.join("  "))
    message.delete()
@@ -205,7 +205,7 @@ client3.on('message', message => {
 
   let args = message.content.split(" ").slice(1);
   
-if (command == "s") {
+if (command == "sd") {
 if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('?|**\`ADMINISTRATOR\`ليس لديك صلاحيات`**');
    message.channel.sendMessage(args.join("  "))
    message.delete()
@@ -221,7 +221,7 @@ client4.on('message', message => {
 
   let args = message.content.split(" ").slice(1);
   
-if (command == "s") {
+if (command == "sd") {
 if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('?|**\`ADMINISTRATOR\`ليس لديك صلاحيات`**');
    message.channel.sendMessage(args.join("  "))
    message.delete()
@@ -237,7 +237,7 @@ client5.on('message', message => {
 
   let args = message.content.split(" ").slice(1);
   
-if (command == "s") {
+if (command == "sd") {
 if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('?|**\`ADMINISTRATOR\`ليس لديك صلاحيات`**');
    message.channel.sendMessage(args.join("  "))
    message.delete()
@@ -253,7 +253,7 @@ client6.on('message', message => {
 
   let args = message.content.split(" ").slice(1);
   
-if (command == "s") {
+if (command == "sd") {
 if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('?|**\`ADMINISTRATOR\`ليس لديك صلاحيات`**');
    message.channel.sendMessage(args.join("  "))
    message.delete()
@@ -269,7 +269,7 @@ client7.on('message', message => {
 
   let args = message.content.split(" ").slice(1);
   
-if (command == "s") {
+if (command == "sd") {
 if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('?|**\`ADMINISTRATOR\`ليس لديك صلاحيات`**');
    message.channel.sendMessage(args.join("  "))
    message.delete()
@@ -285,7 +285,7 @@ client8.on('message', message => {
 
   let args = message.content.split(" ").slice(1);
   
-if (command == "s") {
+if (command == "sd") {
 if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('?|**\`ADMINISTRATOR\`ليس لديك صلاحيات`**');
    message.channel.sendMessage(args.join("  "))
    message.delete()
@@ -301,7 +301,7 @@ client9.on('message', message => {
 
   let args = message.content.split(" ").slice(1);
   
-if (command == "s") {
+if (command == "sd") {
 if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('?|**\`ADMINISTRATOR\`ليس لديك صلاحيات`**');
    message.channel.sendMessage(args.join("  "))
    message.delete()
@@ -317,7 +317,7 @@ client10.on('message', message => {
 
   let args = message.content.split(" ").slice(1);
   
-if (command == "s") {
+if (command == "sd") {
 if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('?|**\`ADMINISTRATOR\`ليس لديك صلاحيات`**');
    message.channel.sendMessage(args.join("  "))
    message.delete()
