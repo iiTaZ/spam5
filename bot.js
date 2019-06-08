@@ -29,7 +29,7 @@ if (message.content === '!sp1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`-math`)
+        message.channel.send(`-match`)
           .then(m => {
             count++;
           })
@@ -43,7 +43,7 @@ if (message.content === '!sp1') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`-math`)
+        message.channel.send(`-match`)
           .then(m => {
             count++;
           })
